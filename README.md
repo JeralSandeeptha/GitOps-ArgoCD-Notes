@@ -1,9 +1,14 @@
 # ArgoCD Tutorial
 
+<br />
+
 ## Table of Contents
 - [What is GitOps](#what-is-gitops)
 - [Install ArgoCD](#install-argocd)
 - [ArgoCD Architecture](#argocd-architecture)
+
+<br />
+<br />
 
 ## What is GitOps
 
@@ -33,6 +38,13 @@
 `Rollback`: Revert to a previous state by reverting a Git commit
 `Consistency`: Environments can be replicated using the same Git repo
 `Security`: Reduce the need for direct cluster access (changes go through Git PRs)
+
+### GitOps Workflow
+
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753706612/a8e7aa59-433b-4396-a816-a72a58bd611a.png)
+
+<br />
+<br />
 
 ## Install ArgoCD
 - ArgoCD is running on Minikube cluster
