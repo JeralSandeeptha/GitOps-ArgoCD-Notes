@@ -1,4 +1,4 @@
-<img width="1761" height="683" alt="image" src="https://github.com/user-attachments/assets/d237409c-2d66-4732-ac76-64dc041e92fb" /><img width="1761" height="683" alt="image" src="https://github.com/user-attachments/assets/452ee28b-c593-49b1-99ee-9f6d3c8d3c5a" /># ArgoCD Tutorial
+# ArgoCD Tutorial
 
 <br />
 
