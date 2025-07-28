@@ -1,4 +1,4 @@
-# ArgoCD Tutorial
+<img width="1761" height="683" alt="image" src="https://github.com/user-attachments/assets/d237409c-2d66-4732-ac76-64dc041e92fb" /><img width="1761" height="683" alt="image" src="https://github.com/user-attachments/assets/452ee28b-c593-49b1-99ee-9f6d3c8d3c5a" /># ArgoCD Tutorial
 
 <br />
 
@@ -82,3 +82,5 @@ $base64Password = kubectl get secret argocd-initial-admin-secret -n argocd -o js
 ## ArgoCD Architecture
 
 ![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753695564/argocd_architecture_lgxeog.webp)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753720373/61e01025-853a-4af0-a89d-e7e626ffbc0e.png)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753720537/785c2581-8aa4-40f6-8d5d-4041409fde5b.png)
