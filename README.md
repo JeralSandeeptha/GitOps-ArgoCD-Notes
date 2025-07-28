@@ -14,9 +14,10 @@
 
 ![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753703925/432b611d-14e6-4dd1-a6f5-e85729648ded.png)
 
+- `GitOps` is the idea of storing your entire system’s desired state (infrastructure + applications) in `Git`, and using automation tools / we can say `GitOps Controllers` (like ArgoCD or Flux) to continuously sync the actual system to match that desired state
+- `GitOps` is the modern way of implementing CD
 - Use `Git` as a `single source of truth` to deliver applications and infrastructures
 - Track the infrastructures and applications deliveries
-- `GitOps` is the idea of storing your entire system’s desired state (infrastructure + applications) in `Git`, and using automation tools / we can say `GitOps Controllers` (like ArgoCD or Flux) to continuously sync the actual system to match that desired state
 
 ### Without GitOps
 - `If our source code has a machanism of tracking so don't we have a tracking machanisam for deployments and infrasturctures ?`
