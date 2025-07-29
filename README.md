@@ -6,6 +6,7 @@
 - [What is GitOps](#what-is-gitops)
 - [Install ArgoCD](#install-argocd)
 - [ArgoCD Architecture](#argocd-architecture)
+- [Deployment Modes](#deployment-modes)
 
 <br />
 <br />
@@ -85,3 +86,8 @@ $base64Password = kubectl get secret argocd-initial-admin-secret -n argocd -o js
 ![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753695564/argocd_architecture_lgxeog.webp)
 ![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753720373/61e01025-853a-4af0-a89d-e7e626ffbc0e.png)
 ![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1753720537/785c2581-8aa4-40f6-8d5d-4041409fde5b.png)
+
+## Deployment Modes
+
+- Read about the  [Hub-Spoke Model](https://medium.com/@biekrogodbless/hub-and-spoke-architecture-project-with-argocd-an-elastic-kubernetes-project-by-godbless-biekro-a3512e1e5701)
+- Read about [deployment models](https://codefresh.io/learn/argo-cd/a-comprehensive-overview-of-argo-cd-architectures-2025/)
